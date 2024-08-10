@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Simiat's homepage 
-description: group project
+yaml remote_theme: "mmistakes/minimal-mistakes"
+yaml title: Exploring the world of minerals
+description: this is the ITS project site 
+url: "https://simiat.github.io"
