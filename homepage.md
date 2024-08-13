@@ -1,13 +1,13 @@
 ---
-title: "IT Skills Project | Information Technology Skills Final Project (Group 19) - Exam"
-description: "Information Technology Skills final project (group 19) - Exam."
+title: "IT Skills Project | Information Technology Skills Final Project (Group 19)"
+description: "Information Technology Skills final project (group 19)"
 layout: default
 theme-color: "#28a745"
 ---
 
 # IT Skills Project
 
-## Information Technology Skills Final Project (Group 19) - Exam
+## Information Technology Skills Final Project (Group 19)
 
 [View on GitHub](https://github.com/simiat/project-site-)  
 [Download .zip](https://github.com/simiat/project-site-/zipball/master)  
